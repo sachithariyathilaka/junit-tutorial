@@ -6,13 +6,13 @@ Java maven project for JUnit Testing.
   * JUnit 4
   * Maven
 
-* ### Configuration
-  * https://sachithariyathilaka.medium.com/junit-4eab882b6c47
+* ### Documentation
+  * [Read on Medium](https://sachithariyathilaka.medium.com/junit-4eab882b6c47)
   
 * ### Release Note
 
-  * Release: 1.0.0
-  * Date: 2024/04/03
+  * Version: 1.0.0
+  * Release Date: 2024/04/03
   * Module: JUnit Tutorial
   * Changes
     * Implements the support functions of the application. 
